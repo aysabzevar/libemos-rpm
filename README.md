@@ -9,7 +9,7 @@
 [![Build Status](https://copr.fedorainfracloud.org/coprs/simc/stable/package/libemos/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/simc/stable/package/libemos/)
 
 This github repository neither hosts nor provide Emoslib sources, it's meant to
-host (unofficial) convenience files for Fedora and CentOs rpm packaging.
+host (unofficial) convenience files for Fedora and CentOS rpm packaging.
 
 See https://software.ecmwf.int/wiki/display/EMOS/Emoslib
 
